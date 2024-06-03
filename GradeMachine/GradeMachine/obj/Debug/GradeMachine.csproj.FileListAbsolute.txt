@@ -1,0 +1,7 @@
+E:\c# repository\GradeMachine\GradeMachine\bin\Debug\GradeMachine.exe.config
+E:\c# repository\GradeMachine\GradeMachine\bin\Debug\GradeMachine.exe
+E:\c# repository\GradeMachine\GradeMachine\bin\Debug\GradeMachine.pdb
+E:\c# repository\GradeMachine\GradeMachine\obj\Debug\GradeMachine.csproj.AssemblyReference.cache
+E:\c# repository\GradeMachine\GradeMachine\obj\Debug\GradeMachine.csproj.CoreCompileInputs.cache
+E:\c# repository\GradeMachine\GradeMachine\obj\Debug\GradeMachine.exe
+E:\c# repository\GradeMachine\GradeMachine\obj\Debug\GradeMachine.pdb
